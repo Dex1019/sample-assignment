@@ -12,3 +12,7 @@ Fourth change
 Fifth change
 
 Added title text
+
+Added profile image
+
+Added PR status
